@@ -6,8 +6,8 @@ public class Operators {
         int c2=OU(a,b);
         int c3=XOR(a,b);
         int c4=NOT(a);
-        DB(c4);
-        System.out.println(c4);
+        DB(a);
+
 
 
 
